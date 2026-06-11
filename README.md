@@ -162,18 +162,6 @@ names:
 
 请根据自己的数据集路径进行修改。
 
-## 推理效果展示
-
-可以将检测效果图放在 `assets/` 目录下，然后在 README 中展示：
-
-```markdown
-![demo](assets/demo.jpg)
-```
-
-实际展示效果：
-
-![demo](assets/demo.jpg)
-
 ## 贡献
 
 欢迎提交 Issue 或 Pull Request 来改进本项目。
